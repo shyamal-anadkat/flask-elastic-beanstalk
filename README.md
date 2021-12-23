@@ -3,8 +3,7 @@
 Flask is an open source web application framework for Python. 
 This project generates a Flask application and deploys it to an AWS Elastic Beanstalk environment.
 
-_Courtesy: Noah Gift_
-
+_Courtesy: Professor Noah Gift_
 
 
 ![eb-deploy](https://user-images.githubusercontent.com/58792/106804626-a3a81900-6633-11eb-9cf6-54c24af6827f.png)
@@ -35,6 +34,6 @@ D. Create remote eb instance
 
 E.  Setup AWS Code Build Project
 
-
+---
 
  

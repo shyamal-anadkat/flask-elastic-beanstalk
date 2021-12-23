@@ -6,7 +6,7 @@ application = Flask(__name__)
 
 @application.route("/")
 def hello():
-    """Return a friendly HTTP greeting."""
+    """Return a friendly HTTP greeting"""
     print("I am inside hello world")
     return "Continuous Delivery Demo"
 
